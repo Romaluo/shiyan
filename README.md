@@ -1,7 +1,7 @@
 # lzmV2
 
 # 每天不定期维护的节点  
-更新时间:date '+%c'
+date '+%c'
 #
 # 软路由v2rayN节点订阅地址:https://raw.githubusercontent.com/Romaluo/lzmV2/main/V2
 #
