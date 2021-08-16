@@ -1,6 +1,6 @@
 # lzmV2
-个人维护的节点
-每天不定期维护的节点
+
+# 每天不定期维护的节点
 
 软路由v2rayN节点订阅地址:https://raw.githubusercontent.com/Romaluo/lzmV2/main/V2
 
