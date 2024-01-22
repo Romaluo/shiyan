@@ -253,7 +253,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳中文",凤凰中文
 http://113.117.74.107:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳中文",凤凰香港
-https://epg.pw/stream/af200edb390eccb6bd2710d91f2d129e2fa16a7ec32f42733606bbd126b434c0.m3u8
 http://103.45.68.47/gy/gy563/xsj.php?id=phtv-hk
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="港澳中文",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
